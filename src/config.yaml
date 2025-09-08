@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: Zanya blog
+  site: 'https://zanzan.idv.tw'
   base: '/'
   trailingSlash: false
 
